@@ -9,8 +9,8 @@ apellido = input("Apellido: ")
 edad = int(input("Edad: "))
 
 # Calcular el año de nacimiento
-anio_actual = 2023
-anio_nacimiento = anio_actual - edad
+año_actual = 2023
+año_nacimiento = año_actual - edad
 
 # Imprimir el saludo y el año de nacimiento
-print("Hola", nombre, apellido + ",", "naciste en", str(anio_nacimiento))
+print("Hola", nombre, apellido + ",", "naciste en", str(año_nacimiento))
