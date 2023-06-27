@@ -1,0 +1,12 @@
+print("A la víbora, víbora")
+print("\tDe la mar, de la mar")
+print("\t\tPor aquí pueden pasar")
+print("\tLos de adelante corren mucho")
+print("\t\tY los de atrás se quedarán")
+
+print("A la víbora, víbora")
+print("\tDe la mar, de la mar")
+print("\t\tPor aquí pueden pasar")
+print("\tLos de adelante corren mucho")
+print("\t\tY los de atrás se quedarán")
+print("\t\tTras, tras, tras")
