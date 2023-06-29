@@ -1,6 +1,6 @@
 #  calcular-sumas
 # Solicitar un número al usuario
-n = input("Ingrese un número: ")
+n = float(input("Ingrese un número: "))
 
 # Calcular el valor de n + nn + nnn
 nn = int(n + n)

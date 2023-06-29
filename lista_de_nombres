@@ -1,0 +1,14 @@
+nombres = []
+while True:
+    nombre = input("Ingresa un nombre (o escribe 'salir' para terminar): ")
+    if nombre.lower() == "salir":
+        break
+    nombres.append(nombre)
+
+lista_nombres = nombres
+tupla_nombres = tuple(nombres)
+set_nombres = set(nombres)
+
+print("Lista de nombres:", lista_nombres)
+print("Tupla de nombres:", tupla_nombres)
+print("Set de nombres:", set_nombres)

@@ -1,0 +1,10 @@
+numero = float(input("Ingresa un número: "))
+
+diferencia = numero - 17
+
+if numero > 17:
+    resultado = diferencia * 2
+else:
+    resultado = diferencia
+
+print("El resultado es:", resultado)
